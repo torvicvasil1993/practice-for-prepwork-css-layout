@@ -1,0 +1,123 @@
+.add-user {
+    border: 1px solid black;
+    margin-left: 60px;
+}
+
+.fle {
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+}
+
+.status-date {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 16px;
+}
+
+.flex--column {
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+    
+}
+
+form {
+    width: 500px;
+}
+
+input[type=text] {
+  width: 45%;
+}
+
+input[type=email] {
+  width: 45%;
+}
+
+.lang > p {
+    text-align: center;
+
+}
+
+.lang--checkbox {
+    display: flex;
+    justify-content: center;
+    gap: 5px;
+}
+
+.comments {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.submit {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.news-letter--agreement {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 10px;
+}
+
+
+
+input[type="checkbox"] {
+    width: 20px;
+    height: 20px;
+}
+
+input[type="radio"] {
+    width: 20px;
+    height: 20px;
+}
+
+.html {
+    margin-top: 5px;
+}
+
+.css {
+    margin-top: 5px;
+}
+
+.javascript {
+    margin-top: 5px;
+}
+
+.signup {
+    width: 100px;
+    height: 100px;
+    display: flex;
+}
+
+.terms {
+    width: 100px;
+    height: 100px;
+    display: flex;
+}
+
+#comments {
+    width: 200px;
+    height: 50px;
+}
+
+input#signup {
+
+    width: 50px;
+}
+
+input#terms {
+
+    width: 50px;
+}
+
+
